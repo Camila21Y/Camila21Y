@@ -45,11 +45,11 @@
 
 <h3 align="center">Stats</h3>
 
-[![HappyRogelio7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamila21Y/&show_icons=true&theme=merko)](https://github.com/Kamila21Y/)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamila21Y/&layout=compact&theme=tokyonight)](https://github.com/Kamila21Y/)
+[![HappyRogelio7's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamila21Y&show_icons=true&theme=merko)](https://github.com/Kamila21Y/)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamila21Y&layout=compact&theme=tokyonight)](https://github.com/Kamila21Y/)
 
 
-[![HappyRogelio7's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=Kamila21Y/.readme.visitor-badge)](https://github.com/Kamila21Y/) 
+[![HappyRogelio7's GitHub stats](https://visitor-badge.laobi.icu/badge?page_id=Kamila21Y.readme.visitor-badge)](https://github.com/Kamila21Y/) 
 
  
 
